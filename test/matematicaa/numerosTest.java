@@ -42,7 +42,7 @@ public class numerosTest {
 
     @Test
     public void testNumeroPar() {
-        assertTrue(n.numeroPar(8));
+        assertTrue(n.numeroPar(22));
     }
     
     @Test
@@ -53,7 +53,7 @@ public class numerosTest {
     @Test
     public void testDivisivel() {
         
-        assertTrue(n.numeroDivisivel(4, 2));
+        assertTrue(n.numeroDivisivel(6, 2));
     
     }
     
