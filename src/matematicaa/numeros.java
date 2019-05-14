@@ -27,7 +27,7 @@ public class numeros {
         
         
         public int Inteiros(){
-               return 100;
+               return 300;
         }
     
 }
